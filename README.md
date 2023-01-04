@@ -1,4 +1,6 @@
 # google_login_flutter
+
+# google_sign_in: ^5.4.2
  
 #The CFBundleURLTypes attributes below into the [my_project]/ios/Runner/Info.plist file.
 
